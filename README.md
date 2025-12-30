@@ -61,4 +61,4 @@ Proyek ini merupakan latihan mandiri untuk membuat UI aplikasi cuaca menggunakan
 
 Proyek ini dibuat sebagai bagian dari latihan mandiri dan partisipasi dalam Hacktoberfest 2023 untuk mengembangkan keterampilan dalam desain antarmuka menggunakan TailwindCSS.
 
-**Date**: -
+**Date**: Oct 13, 2023
