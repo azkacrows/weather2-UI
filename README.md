@@ -34,7 +34,7 @@ Proyek ini merupakan latihan mandiri untuk membuat UI aplikasi cuaca menggunakan
 1. **Clone Repository**:
 
     ```sh
-    git clone https://github.com/username/weather2-UI.git
+    git clone https://github.com/azkacrows/weather2-UI.git
     ```
 
 2. **Install Dependencies**:
